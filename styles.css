@@ -192,3 +192,18 @@ nav a:hover {
     padding-top: 2rem;
   }
 }
+
+.card-img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.experience-img {
+  width: 120px;        /* Adjust as you like */
+  height: auto;
+  border-radius: 0.5rem;
+  margin-bottom: 0.75rem;
+  display: block;
+}
